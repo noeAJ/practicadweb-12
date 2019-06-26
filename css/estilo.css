@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: #00324b;
+}
+h1 {
+	margin-bottom: 1rem;
+	color: #ff9900;
+	font-weight: 600;
+}
+p {
+	margin-bottom: 1rem;
+}
+img {
+	width: 100%;
+	margin: 1em 0;
+}
+
+main {
+	background-color: #fff;
+	padding: 3rem;
+	margin: 3rem auto;
+	max-width: 800px;
+	display: block;
+}
